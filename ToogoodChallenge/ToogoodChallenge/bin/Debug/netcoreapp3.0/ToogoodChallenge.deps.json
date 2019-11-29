@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ToogoodChallenge/1.0.0": {
+        "runtime": {
+          "ToogoodChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToogoodChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

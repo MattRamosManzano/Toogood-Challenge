@@ -1,0 +1,11 @@
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\obj\Debug\netcoreapp3.0\ToogoodChallenge.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\obj\Debug\netcoreapp3.0\ToogoodChallenge.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\obj\Debug\netcoreapp3.0\ToogoodChallenge.AssemblyInfo.cs
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\bin\Debug\netcoreapp3.0\ToogoodChallenge.exe
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\bin\Debug\netcoreapp3.0\ToogoodChallenge.deps.json
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\bin\Debug\netcoreapp3.0\ToogoodChallenge.runtimeconfig.json
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\bin\Debug\netcoreapp3.0\ToogoodChallenge.runtimeconfig.dev.json
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\bin\Debug\netcoreapp3.0\ToogoodChallenge.dll
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\bin\Debug\netcoreapp3.0\ToogoodChallenge.pdb
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\obj\Debug\netcoreapp3.0\ToogoodChallenge.dll
+C:\Users\Matt\source\repos\ToogoodChallenge\ToogoodChallenge\obj\Debug\netcoreapp3.0\ToogoodChallenge.pdb
