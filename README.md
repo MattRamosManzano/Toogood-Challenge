@@ -7,37 +7,25 @@ I assumed the string representing the file would look as follows:
 
 --------------------------------
 
-Col1,Col2,Col3,Col4
-
-123,abc,456,def
-
+Col1,Col2,Col3,Col4  
+123,abc,456,def  
 789,zyx,654,wvu
 
 
 instead of
 
-Col1
 
-Col2
-
-Col3
-
-Col4
-
-123
-
-abc
-
-456
-
-def
-
-789
-
-zyx
-
-654
-
+Col1  
+Col2  
+Col3  
+Col4  
+123  
+abc  
+456  
+def  
+789  
+zyx  
+654  
 wvu
 
 
