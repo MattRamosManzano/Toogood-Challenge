@@ -1,5 +1,5 @@
 # Toogood-Challenge
-The assignment given to me by Toogood Financial Systems
+The challenge given to me by Toogood Financial Systems
 
 I assumed csv files were already read and are thus a string.
 
